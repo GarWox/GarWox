@@ -1,16 +1,12 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hello, I'm Gary👋</h1>
+</div>
 
-<!--
-**GarWox/GarWox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ![](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square) 
+- HTML 
+- CSS
+- Node.js
+- Vue.js
+- 🌱 I’m currently learning MySQL
