@@ -1,24 +1,18 @@
-<div align="center">
-<h1 align="center">Hello, I'm Gary👋</h1>
-</div>
-
 ## ✌🏻 About me
 
-<div align="center">
-  <p>I'm a frontend developer who loves to grow and learn every day. At present I'm learning about backend development and databases.</p>
-</div>
+  * 🦊 `My name is`: **Gary**
+  * 🔆 `I'm`: **22 years old**
+  * 🌱 `I’m currently learning`: **Python and Cybersecurity**
+  * 🦉 `I'm able to speak`: **Spanish, English and Japanese**
+  * 🎸 `I love`: **Videogames and heavy metal music**
 
 ## 💻 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-785CDD?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+  <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,cs,net,git"/></td>
+</div>
+<div align="center">
+  <td><img height="40" src="https://skillicons.dev/icons?i=bash,mysql,markdown,vue,vscode,visualstudio,neovim,github"/></td>
+</div>
 
 ## 📊 Github Stats
 <div align="center">
