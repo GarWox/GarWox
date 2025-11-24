@@ -16,6 +16,6 @@
 
 ## 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarWox&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GarWox&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Github Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GarWox&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GarWox&layout=compact&langs_count=8&theme=algolia" />
 </div>
