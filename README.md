@@ -1,7 +1,7 @@
 ## ✌🏻 About me
 
   * 🦊 `My name is`: **Gary**
-  * 🔆 `I'm`: **22 years old**
+  * 🔆 `I'm`: **23 years old**
   * 🌱 `I’m currently learning`: **Python and Cybersecurity**
   * 🦉 `I'm able to speak`: **Spanish, English and Japanese**
   * 🎸 `I love`: **Videogames and heavy metal music**
